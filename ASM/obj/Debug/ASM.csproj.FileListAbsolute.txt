@@ -1,0 +1,123 @@
+H:\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.exe.config
+H:\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.exe
+H:\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.pdb
+H:\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+H:\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+H:\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+H:\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+H:\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+H:\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.exe
+H:\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.pdb
+H:\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+F:\ASM\ASM\bin\Debug\ASM.exe.config
+F:\ASM\ASM\obj\Debug\ASM.exe
+F:\ASM\ASM\obj\Debug\ASM.pdb
+F:\ASM\ASM\bin\Debug\ASM.exe
+F:\ASM\ASM\bin\Debug\ASM.pdb
+F:\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+F:\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+F:\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+F:\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+F:\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+F:\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+O:\ASM\ASM\bin\Debug\ASM.exe.config
+O:\ASM\ASM\obj\Debug\ASM.exe
+O:\ASM\ASM\obj\Debug\ASM.pdb
+O:\ASM\ASM\bin\Debug\ASM.exe
+O:\ASM\ASM\bin\Debug\ASM.pdb
+O:\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+O:\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+O:\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+O:\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+O:\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+O:\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+E:\Documents\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.exe.config
+E:\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.exe
+E:\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.pdb
+E:\Documents\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.exe
+E:\Documents\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.pdb
+E:\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+E:\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+E:\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+E:\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+E:\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+E:\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.exe.config
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.exe
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.pdb
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.exe
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.pdb
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+C:\Users\xcendirli\Desktop\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\bin\Debug\ASM.exe.config
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.exe
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.pdb
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+C:\Users\javad\Documents\Projects\VisualStiudio\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\bin\Debug\ASM.exe.config
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.exe
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.pdb
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\bin\Debug\ASM.exe
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\bin\Debug\ASM.pdb
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\javad\Documents\Visual Studio 2013\Projects\ASM\ASM\obj\Debug\ASM.Journal.resources
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\ASM.exe.config
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.exe
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.pdb
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.Journal.resources
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+E:\javad\Documents\Projects\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\ASM.exe
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\ASM.pdb
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\javad\Documents\Projects\ASM\ASM\bin\Debug\MySql.Data.dll
+E:\javad\Documents\Visual Studio 2015\Projects\ASM\ASM\bin\Debug\ASM.exe.config
+E:\javad\Documents\Visual Studio 2015\Projects\ASM\ASM\obj\Debug\ASM.exe
+E:\javad\Documents\Visual Studio 2015\Projects\ASM\ASM\obj\Debug\ASM.pdb
+C:\Users\xcendirli\Desktop\ASM\ASM\bin\Debug\ASM.exe.config
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.exe
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.pdb
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.csprojResolveAssemblyReference.cache
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.AuthFrm.resources
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.MainFrm.resources
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.Properties.Resources.resources
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.UpdateFrm.resources
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.csproj.GenerateResource.Cache
+C:\Users\xcendirli\Desktop\ASM\ASM\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\xcendirli\Desktop\ASM\ASM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\xcendirli\Desktop\ASM\ASM\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\xcendirli\Desktop\ASM\ASM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\xcendirli\Desktop\ASM\ASM\bin\Debug\ASM.exe
+C:\Users\xcendirli\Desktop\ASM\ASM\bin\Debug\ASM.pdb
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.JournalFrm.resources
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.StudTab.resources
+C:\Users\xcendirli\Desktop\ASM\ASM\obj\Debug\ASM.FindFrm.resources
+D:\Documents\OldnShit\ASMnewer\ASM\bin\Debug\ASM.exe.config
+D:\Documents\OldnShit\ASMnewer\ASM\obj\Debug\ASM.exe
+D:\Documents\OldnShit\ASMnewer\ASM\obj\Debug\ASM.pdb
